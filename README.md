@@ -3,7 +3,9 @@
 
 ## About Me
 
-Hello! I'm Anurag Bhattari, a passionate developer ,technology  and sports enthusiast. I'm excited to be part of the GitHub community and look forward to contributing to open-source projects and collaborating with fellow developers.
+Hello! I'm Anurag Bhattari, a passionate developer ,technology  and sports enthusiast.
+I'm excited to be part of the GitHub community and look forward to contributing 
+to open-source projects and collaborating with fellow developers.
 
 ## 🎯 Interests
 
@@ -20,7 +22,8 @@ Hello! I'm Anurag Bhattari, a passionate developer ,technology  and sports enthu
 - **Web Technologies**: HTML, CSS, React, Node.js
 - **Version Control**: Git, GitHub
 - **Tools & Platforms**: VS Code, Docker, Linux
-- **Currently Learning**: Advanced algorithms, cloud architecture, containerization, Data Mining ,Project Management
+- **Currently Learning**: Advanced algorithms, cloud architecture, containerization,
+- **New Subjects **:Data Mining ,Project Management
 
 ## 🌱 What I'm Working On
 
