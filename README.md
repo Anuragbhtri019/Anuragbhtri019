@@ -16,7 +16,7 @@ Hello! I'm Anurag Bhattari, a passionate developer ,technology  and sports enthu
 
 ## 💻 Skills & Technologies
 
-- **Programming Languages**: C,C++ JavaScript, Java(currently going )
+- **Programming Languages**: C,C++  {JavaScript and Java(currently going ) }
 - **Web Technologies**: HTML, CSS, React, Node.js
 - **Version Control**: Git, GitHub
 - **Tools & Platforms**: VS Code, Docker, Linux
