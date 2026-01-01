@@ -23,7 +23,7 @@ to open-source projects and collaborating with fellow developers.
 - **Version Control**: Git, GitHub
 - **Tools & Platforms**: VS Code, Docker, Linux
 - **Currently Learning**: Advanced algorithms, cloud architecture, containerization
-- **New Subjects**:Data Mining ,Project Management
+- **New Subjects**: Data Mining ,Project Management
 
 ## 🌱 What I'm Working On
 
