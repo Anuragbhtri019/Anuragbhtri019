@@ -20,7 +20,7 @@ Hello! I'm Anurag Bhattari, a passionate developer ,technology  and sports enthu
 - **Web Technologies**: HTML, CSS, React, Node.js
 - **Version Control**: Git, GitHub
 - **Tools & Platforms**: VS Code, Docker, Linux
-- **Currently Learning**: Advanced algorithms, cloud architecture, containerization ,Java
+- **Currently Learning**: Advanced algorithms, cloud architecture, containerization, Data Mining ,Project Management
 
 ## 🌱 What I'm Working On
 
