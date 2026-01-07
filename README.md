@@ -52,6 +52,7 @@ to open-source projects and collaborating with fellow developers.
 ## 📫 Let's Connect!
 I'm always open to interesting conversations, collaboration opportunities, and learning from others. Feel free to reach out!
 **mail** : anuragbhattarai019@gmail.com
+
 *"The best way to predict the future is to create it." - Peter Drucker*
 
 Thank you for visiting my profile! 🚀
