@@ -18,7 +18,7 @@ to open-source projects and collaborating with fellow developers.
 
 ## 💻 Skills & Technologies
 
-- **Programming Languages**: C C++  {JavaScript and Java(currently going ) }
+- **Programming Languages**: C C++ 
 - **Web Technologies**: HTML, CSS, React, Node.js
 - **Version Control**: Git, GitHub
 - **Tools & Platforms**: VS Code, Docker, Linux
@@ -28,6 +28,7 @@ to open-source projects and collaborating with fellow developers.
 ## 🌱 What I'm Working On
 
 - Learning best practices in software development
+-  JavaScript and Java  ie scriping language
 - Building projects to strengthen my coding skills
 - Exploring GitHub features and collaborative workflows
 - Contributing to open-source projects
