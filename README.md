@@ -19,7 +19,7 @@ to open-source projects and collaborating with fellow developers.
 ## 💻 Skills & Technologies
 
 - **Programming Languages**: C C++
-- **Back End platforms**:.NET ( Basic to Intermediate)
+- **Back End platforms**: .NET ( Basic to Intermediate)
 - **Web Technologies**: HTML, CSS, React, Node.js
 - **Version Control**: Git, GitHub
 - **Tools & Platforms**: VS Code, Docker, Linux
