@@ -12,7 +12,7 @@ to open-source projects and collaborating with fellow developers.
 
 - **Software Development**: Building innovative solutions and learning new technologies
 - **Web Development**: Creating responsive and user-friendly web applications
-- **Sports**:Watching the European Football and F1 Races with passion 
+- **Sports**: Watching the European Football and F1 Races with passion 
 - **Open Source**: Contributing to the community and collaborating on meaningful projects
 - **Cloud Computing**: Exploring cloud platforms and distributed systems
 - **Machine Learning**: Understanding AI/ML concepts and their practical applications
