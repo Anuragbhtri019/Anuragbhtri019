@@ -4,17 +4,20 @@
 ## About Me
 
 Hello! I'm Anurag Bhattari, a passionate developer ,technology  and sports enthusiast.
+
 I'm excited to be part of the GitHub community and look forward to contributing 
 to open-source projects and collaborating with fellow developers.
 
 ## 🎯 Interests
 
 - **Software Development**: Building innovative solutions and learning new technologies
-- **Open Source**: Contributing to the community and collaborating on meaningful projects
 - **Web Development**: Creating responsive and user-friendly web applications
+- **Sports**:Watching the European Football and F1 Races with passion 
+- **Open Source**: Contributing to the community and collaborating on meaningful projects
 - **Cloud Computing**: Exploring cloud platforms and distributed systems
 - **Machine Learning**: Understanding AI/ML concepts and their practical applications
 - **DevOps**: Streamlining development workflows and automation
+
 
 ## 💻 Skills & Technologies
 
