@@ -52,7 +52,7 @@ to open-source projects and collaborating with fellow developers.
 - **Learning**: Always curious about new technologies and frameworks
 - **Collaboration**: Working with teams on interesting projects
 - **Innovation**: Thinking of creative solutions to everyday problems
-- **Sports** : Watching sports like football,cricke,F1
+- **Sports** : Watching sports like football, cricket,F1
   
 ## 📫 Let's Connect!
 I'm always open to interesting conversations, collaboration opportunities, and learning from others. Feel free to reach out!
