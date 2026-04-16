@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Anurag Bhattarai</h1>
 <h3 align="center">WEB DEVELOPER | MERN Stack </h3>
 
@@ -41,9 +40,9 @@
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Anuragbhtri019&theme=dark&radius=10" alt="Anuragbhtri019's Activity Graph" />
 </p>
-<p align="center">
-  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
-</p>
+<div align="center">
+  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+</div>
 
 
 ## 🛠️ Languages & Tools
@@ -122,7 +121,3 @@
 ## 💬 Quote
 > The best way to predict the future is to create it
 
-<!---
-Anuragbhtri019/Anuragbhtri019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
