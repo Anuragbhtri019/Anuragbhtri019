@@ -9,9 +9,10 @@
 
 ## 📌 About Me
 - Hello! I'm Anurag Bhattarai, a passionate developer ,technology  and sports enthusiast.
-- I'm excited to be part of the GitHub community and look forward to contributing
-- to open-source projects and collaborating with fellow developers.
-- 🎓 Goals
+- I'm excited to be part of the GitHub community
+- look forward to contributing to open-source projects .
+-  collaborating with fellow developers.
+## 🎓 Goals
 - Master full-stack development
 - Contribute regularly to open-source communities
 - Build meaningful projects that solve real-world problems
@@ -21,7 +22,7 @@
 
 ## 🧠 My Focus Areas
 - Learning best practices in software development
--  JavaScript and Java  ie scriping language
+- JavaScript and Java  ie scriping language
 - Building projects to strengthen my coding skills
 - Exploring GitHub features and collaborative workflows
 - Contributing to open-source projects
