@@ -31,7 +31,7 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/Anuragbhtri019">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anuragbhtri019&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="Anuragbhtri019's GitHub Stats" />
+    <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anuragbhtri019&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="Anuragbhtri019's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=Anuragbhtri019&theme=dark&hide_border=true&cache_seconds=86400" alt="Anuragbhtri019's GitHub Streak" width="49%" />
 </p>
@@ -39,7 +39,7 @@
   <img src="https://trophy.ryglcloud.net/?username=Anuragbhtri019&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Anurag Bhattarai's GitHub Trophies" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Anuragbhtri019&theme=dark&radius=10" alt="Anuragbhtri019's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Anuragbhtri019&theme=dark&radius=10" alt="Anuragbhtri019's Activity Graph" /> -->
 </p>
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
